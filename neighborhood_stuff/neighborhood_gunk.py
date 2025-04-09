@@ -402,6 +402,7 @@ class Neighborhoods(Add_Neighborhoods):
             chart_title: desired chart title. defaults to None
             kml_neighborhood_col: column in the neighborhood kml df that denotes neighborhoods. defaults to 'Name'
             color_bar_label: label for the color bar. defaults to 'Count'
+            five_or_fewer (Bool): True removes value labels for Neighborhoods where N <=5. Defaults to False
             color_scale_squence: color gradient for the heat map. defaults to px.colors.sequential.PuBu from plotly
             potential_tickscales: range of options for colorbar tick scale. Defaults to [2,5,10,25,50,75,100]
         '''
