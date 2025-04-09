@@ -1,0 +1,9 @@
+address_id,address1,city,state,zip,full_address,location,geometry,neighborhood
+jj1,201 e 43rd st,chicago,illinois,60653,"201 e 43rd st, chicago, illinois 60653","201 E 43rd St, Chicago, IL 60653, USA",POINT (-87.62091319999999 41.8163916),Bronzeville
+jj2,411 S Kedzie Ave,chicago,Illinois,60612,"411 S Kedzie Ave, chicago, Illinois 60612","411 S Kedzie Ave, Chicago, IL 60612, USA",POINT (-87.70507909999999 41.8754538),East Garfield Park
+jj3,5500 W chicago ave,chicago,illinois,60651,"5500 W chicago ave, chicago, illinois 60651","5500 W Chicago Ave, Chicago, IL 60651, USA",POINT (-87.76393449999999 41.8951322),Austin
+jj5,2025 e 75th st,chicago,illinois,60649,"2025 e 75th st, chicago, illinois 60649","2025 E 75th St, Chicago, IL 60649, USA",POINT (-87.5751033 41.758723),South Shore
+jj6,10902 s halstead,chicago,illinois,60628,"10902 s halstead, chicago, illinois 60628","10902 S Halsted St, Chicago, IL 60628, USA",POINT (-87.6428224 41.6957902),Morgan Park
+jj7,3948 w cermak,chicago,illinois,60623,"3948 w cermak, chicago, illinois 60623","3948 W Cermak Rd, Chicago, IL 60623, USA",POINT (-87.7242843 41.8520229),North Lawndale
+jj8,6659 s damen ave,Chicago,illinois,60636,"6659 s damen ave, Chicago, illinois 60636","6659 S Damen Ave, Chicago, IL 60636, USA",POINT (-87.6733142 41.7723271),West Englewood
+jj9,800 n kedzie ,chicago,Illinois,60651,"800 n kedzie, chicago, Illinois 60651","800 N Kedzie Ave, Chicago, IL 60651, USA",POINT (-87.7068862 41.8966534),Humboldt Park
